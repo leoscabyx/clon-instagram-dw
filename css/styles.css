@@ -138,7 +138,7 @@ nav {
         flex: 1 0 300px;
         display: block;
         max-width: 350px;
-        background-color: #fff;
+        
 
         
     }
@@ -394,11 +394,11 @@ nav {
 
 @media screen and (min-width:568px){
 
-    aside {
+    /* aside {
         position: fixed;
         width: 350px;
         z-index: -2;
-    }
+    } */
 
     .app__right .avatar {
         width: 100%;
