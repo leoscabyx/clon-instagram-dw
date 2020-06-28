@@ -108,7 +108,7 @@ nav {
 /* Main */
 
 .app {
-    
+    flex: 1 1 auto;
     overflow-y: scroll;
 }
 
@@ -491,6 +491,7 @@ nav {
 /* Footer */
 
 .footer {
+    flex: 0 0 60px;
     background-color: #fff;
 }
 
