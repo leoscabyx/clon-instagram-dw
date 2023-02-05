@@ -11,7 +11,7 @@ FontAwesome
 
 #### Link
 
-[leoscabyx.github.io/clone-instagram/](https://leoscabyx.github.io/clone-instagram/)
+[leoscabyx.github.io/clon-instagram-dw/](https://leoscabyx.github.io/clon-instagram-dw/)
 
 #### Vista Mobile
 
